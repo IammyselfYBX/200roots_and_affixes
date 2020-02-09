@@ -1,8 +1,8 @@
 # 200个一定要学的英文词根词缀
 ![cover.jpg](cover.jpg)
 
-## 目录
-### 核心前缀
+## 视频目录
+### 一、核心前缀
 [1_1_核心前缀1-以a_b为首字母](https://mp.weixin.qq.com/s?__biz=MzU4MzQ1NDcwNw==&mid=2247488870&idx=1&sn=22a7061f4d95c8c86eb62ec4d53c74c8&chksm=fda98ffacade06ec591d43977e8d5ebc85df4cd795cd6a8f6d98949fae506bdfb97803be98cb&token=1068545508&lang=zh_CN#rd)
 
 [1_2_核心前缀1-以c_d_i_m为首字母](https://mp.weixin.qq.com/s?__biz=MzU4MzQ1NDcwNw==&mid=2247488870&idx=2&sn=5f359c7e5da227f89b15315d8a101986&chksm=fda98ffacade06ecd0bf5c1b27c278960a1715b7a601a86720fe1630161a78565e05fe6c62d3&token=1068545508&lang=zh_CN#rd)
@@ -17,7 +17,7 @@
 
 [1_7_核心前缀2-以t_u为首字母](https://mp.weixin.qq.com/s?__biz=MzU4MzQ1NDcwNw==&mid=2247488870&idx=7&sn=eec104b80f8d2574cae890e6bf052755&chksm=fda98ffacade06ec0efc3a541bdbb06fea39f4572855f8de130495aef3b511c74602e1b0d54e&token=1068545508&lang=zh_CN#rd)
 
-### 核心词根
+### 二、核心词根
 
 [1_8_核心词根-以a_b为首字母](https://mp.weixin.qq.com/s?__biz=MzU4MzQ1NDcwNw==&mid=2247488870&idx=8&sn=913d37abcaa75c0548cb638904c24215&chksm=fda98ffacade06ec1a18bb5cd6640d69e450bcd6440b5288855c36e4f1f733d534281c0a2515&token=1068545508&lang=zh_CN#rd)
 
@@ -36,3 +36,8 @@
 [1_15_核心词根-以p为首字母](https://mp.weixin.qq.com/s?__biz=MzU4MzQ1NDcwNw==&mid=2247488881&idx=7&sn=da28efee7ede0e6e4eef4ce6a2ea08aa&chksm=fda98fedcade06fb8f8190b6af713e17d4ea6b8f3f5724b1e4b4fe6575b0c15bc2645b28dd14&token=1068545508&lang=zh_CN#rd)
 
 [1_16_核心词根-以q_r为首字母](https://mp.weixin.qq.com/s?__biz=MzU4MzQ1NDcwNw==&mid=2247488881&idx=8&sn=0d3b5e2f6b3176e752138c845afc36c5&chksm=fda98fedcade06fb8ccd832d9a5e4bf42a55422707115e2e93141c9ae25c858fd4618fdb2921&token=1068545508&lang=zh_CN#rd)
+
+[1_17_核心词根-以s为首字母](https://mp.weixin.qq.com/s?__biz=MzU4MzQ1NDcwNw==&mid=2247489466&idx=2&sn=f02bd2692ce1336a4a4ee1e2b0a88777&chksm=fda98d26cade0430d331507570b507ee34f4333e7bc24e38d956dceee9a6dc8adbc96196a3a3&token=1026051315&lang=zh_CN#rd)
+
+### 三、后缀
+[1_18_后缀](https://mp.weixin.qq.com/s?__biz=MzU4MzQ1NDcwNw==&mid=2247489466&idx=3&sn=6bbdb1e21108fd440bf3794f2611c638&chksm=fda98d26cade0430d9d0432c54a93042703ef5ed129b983c903132fc1d75be88b9efa5a45f87&token=1026051315&lang=zh_CN#rd)
